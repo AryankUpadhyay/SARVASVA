@@ -1,16 +1,2 @@
-# sarvasva
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+We are looking forward to creating a one-stop solution app for all Bitian students. Everything important and related to a student will be regularly updated and properly displayed on our app. Regular announcement updates from clubs, updates about upcoming meetings and classes, contact info useful to students, bus schedules, course syllabus, and everything important to know about any particular club will be displayed systematically for the ease of understanding of the student. 
+Club Officials will also benefit heavily by efficiently managing their respective clubs through this platform. With our app in place, officials won't need to worry about spamming info about their events into the newsrooms, this being just one of the benefits of using SARVASVA. We will be sharing further details through the weekly forms as the project progresses. Thank you.
